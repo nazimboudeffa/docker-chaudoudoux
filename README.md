@@ -1,0 +1,19 @@
+## Docker for Chaudoudoux Server
+
+I use this repo for this build https://github.com/stefanvangastel/docker-cakephp
+
+## Install
+
+We are also working on the v1.0 with CakePHP and still with ubuntu/apache/php/mysql or simply xampp
+
+First install https://docs.docker.com/toolbox/toolbox_install_windows/
+
+Or go directly and install the latest https://github.com/docker/toolbox/releases
+
+As my first HDD Drive is called C:/ and contain an SSD with only the Windows OS I Add `D:\Program Files\Docker` Toolbox to my Windows 10 PATH
+
+Got to the folder and double click on `start` it will open a command shell
+
+Clone the repo and tape in the terminal you get after start this command `docker build -t "chaudoudoux-server:Dockerfile" .`
+
+You should obtain something like this https://imgur.com/a/xKsRDmz
