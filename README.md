@@ -21,3 +21,5 @@ Once done run `docker run -d -p 80:80 ubuntu/chaudoudoux:latest`
 Simply connect to the ip you find in Kitematic `http://192.168.99.100/`
 
 You should obtain something like this https://retromatrix.tumblr.com/post/622355485200433152/how-to-run-chaudoudou-docker
+
+![Do not touch my Chaudoudoux](https://media.giphy.com/media/iiahIfaRyM4qp8QNoX/giphy.gif)
