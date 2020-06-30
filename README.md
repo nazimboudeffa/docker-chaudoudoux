@@ -16,4 +16,4 @@ Got to the folder and double click on `start` it will open a command shell
 
 Clone the repo and tape in the terminal you get after start this command `docker build -t "chaudoudoux-server:Dockerfile" .`
 
-You should obtain something like this https://imgur.com/a/xKsRDmz
+You should obtain something like this https://retromatrix.tumblr.com/post/622355485200433152/how-to-run-chaudoudou-docker
