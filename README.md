@@ -14,6 +14,6 @@ As my first HDD Drive is called C:/ and contain an SSD with only the Windows OS 
 
 Got to the folder and double click on `start` it will open a command shell
 
-Clone the repo and tape in the terminal you get after start this command `docker build -t "chaudoudoux-server:Dockerfile" .`
+Clone the repo and tape in the terminal you get after start this command `docker build -t ubuntu/chaudoudoux .`
 
 You should obtain something like this https://retromatrix.tumblr.com/post/622355485200433152/how-to-run-chaudoudou-docker
