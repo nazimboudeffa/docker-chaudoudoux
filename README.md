@@ -22,4 +22,4 @@ Simply connect to the ip you find in Kitematic `http://192.168.99.100/`
 
 You should obtain something like this https://retromatrix.tumblr.com/post/622355485200433152/how-to-run-chaudoudou-docker
 
-![Do not touch my Chaudoudoux](https://media.giphy.com/media/iiahIfaRyM4qp8QNoX/giphy.gif)
+![Do not touch my Chaudoudoux](https://giphy.com/gifs/iiahIfaRyM4qp8QNoX)
