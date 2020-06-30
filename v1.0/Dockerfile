@@ -25,6 +25,20 @@ COPY apache_default /etc/apache2/sites-available/000-default.conf
 RUN a2enmod rewrite && \
 	echo "ServerName localhost" >> /etc/apache2/apache2.conf
 
+################################################################
+# Example, deploy a default CakePHP 3 installation from source #
+################################################################
+
+# Clone your application (cloning CakePHP 3 / app instead of composer create project to demonstrate application deployment example)
+# RUN rm -rf /var/www/html && \
+#	git clone --depth=1 https://github.com/cakephp/cakephp.git /var/www/html
+
+# Set workdir (no more cd from now)
+WORKDIR /var/www/html
+
+# Composer install application
+# RUN composer -n install
+
 ####################################################
 # Expose port and run Apache webserver             #
 ####################################################

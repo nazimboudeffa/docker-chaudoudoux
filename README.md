@@ -18,4 +18,6 @@ Clone the repo and tape in the terminal you get after start this command `docker
 
 Once done run `docker run -d -p 80:80 ubuntu/chaudoudoux:latest`
 
+Simply connect to the ip you find in Kitematic `http://192.168.99.100/`
+
 You should obtain something like this https://retromatrix.tumblr.com/post/622355485200433152/how-to-run-chaudoudou-docker
